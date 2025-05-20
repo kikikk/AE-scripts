@@ -1,2 +1,0 @@
-offset = 50; // 每层偏移50像素
-value + [index * offset, 0];
